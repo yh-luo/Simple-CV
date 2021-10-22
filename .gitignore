@@ -1,0 +1,7 @@
+# auxiliary files
+*.bcf
+*.xml
+*.gz
+
+# output
+*.pdf
